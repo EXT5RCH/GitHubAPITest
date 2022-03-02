@@ -1,1 +1,2 @@
 # GitHubAPITest
+GitHubのAPIを試してみる。
